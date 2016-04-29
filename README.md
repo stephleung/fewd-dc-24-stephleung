@@ -4,7 +4,7 @@
 Welcome to Front-End Web Development at General Assembly! This is where we will be hosting all class slides, assignments, starter code, and more.
 
 ## Important Links
-* [Homework Submission](http://goo.gl/forms/Dh531ecXFR) - Submit your homework info here.
+* [Homework Submission](http://goo.gl/forms/kKj1YXEsw1) - Submit your homework info here.
 
 
 
