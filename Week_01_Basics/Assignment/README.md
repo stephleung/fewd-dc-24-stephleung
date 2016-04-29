@@ -67,7 +67,7 @@ The original wiki page that this article was taken from is https://en.wikipedia.
 
 ###Evaluation / Submission
 
-Students will use the github repository created during the first class (suggested name is "FEWD24dev") and push their code to this new repository when they are ready to submit.
+Students will use the github repository forked during the first class (suggested name is "Week_01_Basics") and push their code to this new repository when they are ready to submit.
 
 The instructional team will grade each technical requirement and provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2).  The maximum possible score on this assignment is 16/16.
 

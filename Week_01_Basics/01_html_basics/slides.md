@@ -49,6 +49,10 @@ And for that matter, what is version control?
 
 ---
 
+##Creating a Respository
+
+---
+
 ##Forking a Repository
 
 ![Forking](../../img/2000px-AB-Vzw.png)
@@ -83,7 +87,7 @@ HTML5 is HTML with a few additions
 The Doctype tells you if the page is HTML5 ready.
 
 
-```<!DOCTYPE html>```
+```&lt;!DOCTYPE html>```
 
 
 ##HTML HISTORY
@@ -178,6 +182,3 @@ links 
 
 ## Homework
 
-*	Create a resume website
-*	Watch a video on the Internet about the Internet
-*	Read about CSS Colors

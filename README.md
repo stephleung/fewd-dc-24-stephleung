@@ -23,6 +23,12 @@ Week 09 | Jul 09 | jQuery Plugin & Lab
 Week 10 | Jul 16 | Sass/Susy Grids, Content Management Systems & Final Presentations |
 
 
+## The Slides
+
+The slides can be viewed in a browser at http://fewd.kasigi.com/FEWD-DC-24/
+
+
+
 ##Class 1: Intro to FEWD
 
 ###Homework

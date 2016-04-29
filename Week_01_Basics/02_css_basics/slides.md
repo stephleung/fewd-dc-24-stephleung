@@ -33,7 +33,7 @@
 
 ##Images
 
-*	Images are placed using the ```<img>``` tag.
+*	Images are placed using the img tag.
 
 ```<img src="img/imageName.jpg" alt="alternative text">```
 
