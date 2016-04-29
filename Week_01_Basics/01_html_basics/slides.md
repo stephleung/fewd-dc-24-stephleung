@@ -6,34 +6,18 @@
 
 ## Hi! I'm...
 
-* Nick Grace
-* I'm the director of ux & web development at [JBS International, Inc](http://www.jbsinternational.com).
-* You can email me anytime: [nickrgrace@gmail.com](mailto:nickrgrace@gmail.com).
-* I'm [@nickgrace](http://twitter.com/nickgrace) just about everywhere.
-
---
-
-## And...
 
 * Tor Johnson
-* I'm a ux analyst at Booz Allen Hamilton.
+* I'm a Consultant at TCG.
 * You can email me anytime: [kasigi@gmail.com](mailto:kasigi@gmail.com).
 
 --
 
-## And your trust TAs...
+## And
 
 * Chris Hodges
 * Developer at [Spark](http://www.sparkexperience.com).
 * You can email me anytime: [chris@sparkexperience.com](mailto:chris@sparkexperience.com).
-
---
-
-## And your trust TAs...
-
-* Nayana Davis
-* WDI Graduate.
-* You can email me anytime: [nayana487@gmail.com](mailto:nayana487@gmail.com).
 
 ---
 
@@ -47,7 +31,21 @@
 
 ---
 
-##What is Git/GitHub?
+##What is Git ?
+
+And for that matter, what is version control?
+
+---
+
+##What is a Repository?
+
+---
+
+##Unlimited Undo and Keeping Records... The Commit
+
+---
+
+##What is GitHub?
 
 ---
 
