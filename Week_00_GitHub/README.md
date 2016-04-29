@@ -113,20 +113,18 @@ This can be framed as a "code along" because students should have practiced this
 
 ####Directions to students:
 
-1. Log on to GitHub.com and press the big green button for "New Repository".
-2. Finish setting up the repo by adding a name to the repository. The default settings (public, no organization, no readme) are fine.  Name your repository "cookie_recipe".
-3. Add our website’s files to it. To get started, click on the “Set up in Desktop” button. This brings everyone back to the GitHub App.
-4. When the app opens, a message should pop-up that says “Clone As” with the name of our new repository pre-entered.
+1. Log on to GitHub.com and navigate to the class repository at https://github.com/ga-students/fewd-dc-24
+2. Finish setting up the repo by renaming the repository. Go to settings and then change the repository name to Week-00-Github
+
+3. When the app opens, a message should pop-up that says “Clone As” with the name of our new repository pre-entered.
   - CFU: The Instructional Team should go around and confirm that each student has this message on their screen.
-5. Save the repository to wherever you saved your FEWD class folder.
-6. Let's add files and folders to your project.  At this stage, you won't have any of your own projects, but you do have the starter code from today's class (which you can distribute to students ahead of time via email or Slack). Open up Finder and drag the contents of the cookie_recipe project starter code to your first repo's corresponding local folder. Make sure you don't include the cookie_recipe folder, just the contents of that folder.
-    - NOTE: You should always preserve directories (folders) when dragging files in.
-7. Go back to the GitHub app and select the "Changes" tab.  As a "commit message" for now, you can just put “syncing my new repository!”, but as you do other projects you will want to commit frequently and your commit messages might look like “changed the background color and logo size per client’s request.”
-8. Hit the "Commit and sync" button at the bottom and then the "Publish" button.
-9. Go back to GitHub.com and refresh your repository page. You should now see the cookie recipe's files inside.
-  - CFU: The instructional team should verify that everyone in the class has a repository called cookie_recipe (or similar) with the cookie recipe files inside of it on GitHub.com.
-10. Now that you've seen how to create a new repo, add files to it and push those files up to GitHub, it's time to see how we'll be using the class repo to receive files and code from our instructors. Using the same process that we used to 'clone' our own repo, go ahead and clone the class repo (the instructional team should send the link to the class repo out via Slack--if there are students who don't yet have access, make sure to connect them with the producer in order to get them added).
-11. Practice using [the "sync" button](https://help.github.com/articles/how-can-i-push-or-pull/) in order to pull in the latest changes from the class repo (the instructional team can add a demo file to the repo in order to demonstrate this).
+4. Save the repository to wherever you saved your FEWD class folder.
+5. Let's update a file so that we have something to commit.  Edit the file cntent.txt in Week_00_GitHub and add the text below the title: "Duration: 2070 BC – 1600 BC"
+6. Go back to the GitHub app and select the "Changes" tab.  As a "commit message" for now, you can just put “syncing my new repository!”, but as you do other projects you will want to commit frequently and your commit messages might look like “changed the background color and logo size per client’s request.”
+7. Hit the "Commit and sync" button at the bottom and then the "Publish" button.
+8. Go back to GitHub.com and refresh your repository page. You should now see the updated Week-00-Github/content.txt file inside.
+9. Now that you've seen how to fork a repo, update files in it and push those files up to GitHub, it's time to see how we'll be using the class repo to receive files and code from our instructors. Using the same process that we used to 'clone' our own repo, go ahead and clone the class repo (the instructional team should send the link to the class repo out via Slack--if there are students who don't yet have access, make sure to connect them with the producer in order to get them added).
+10. Practice using [the "sync" button](https://help.github.com/articles/how-can-i-push-or-pull/) in order to pull in the latest changes from the class repo (the instructional team can add a demo file to the repo in order to demonstrate this).
   - CFU: The instructional team should verify that everyone in the class has successfully added the class repo to their GitHub app. Any students who don't yet have access to the repo should be connected with the course producer, who can add them.
 
 ##Closure: Reviewing GitHub work flow; Explain Git/GitHub benefits - 10 minutes
