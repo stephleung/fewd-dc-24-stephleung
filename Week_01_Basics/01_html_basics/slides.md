@@ -49,11 +49,23 @@ And for that matter, what is version control?
 
 ---
 
+##Forking a Repository
+
+![Forking](../../img/2000px-AB-Vzw.png)
+
+Copy a repository to your user
+
+---
+
 ##Set up your first GitHub repo with GitHub app
 
 ---
 
 ##Git/GitHub Work Flow
+
+* Clone
+* Push
+* Pull
 
 ---
 

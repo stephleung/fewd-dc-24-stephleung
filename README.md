@@ -11,16 +11,16 @@ Welcome to Front-End Web Development at General Assembly! This is where we will 
 ## Course Outline (tentative, subject to change)
 Week | Date | Description
 --- | --- | ---
-Week 01 | Jan 30 | HTML & CSS Basics
-Week 02 | Feb 06 | Box Model & Layout
-Week 03 | Feb 13 | Layout Lab & HTML/CSS Lab
-Week 04 | Feb 20 | Intro to Programming & jQuery
-Week 05 | Feb 27 | Variables, Conditionals & Functions<br/> **Project Proposal & Wireframes Deadline**
-Week 06 | Mar 05 | Arrays & jQuery Lab
-Week 07 | Mar 12 | Responsive Basics & Lab<br/> **Project Pseudocode Deadline**
-Week 08 | Mar 19 | 960 Grid, Forms & Bootstrap/Frameworks<br/> **Project First Draft Deadline**
-Week 09 | Mar 26 | jQuery Plugin & Lab
-Week 10 | Apr 02 | Sass/Susy Grids, Content Management Systems & Final Presentations |
+Week 01 | Apr 30 | HTML & CSS Basics
+Week 02 | May 07 | Box Model & Layout
+Week 03 | May 14 | Layout Lab & HTML/CSS Lab
+Week 04 | May 21 | Intro to Programming & jQuery
+Week 05 | Jun 04 | Variables, Conditionals & Functions<br/> **Project Proposal & Wireframes Deadline**
+Week 06 | Jun 11 | Arrays & jQuery Lab
+Week 07 | Jun 18 | Responsive Basics & Lab<br/> **Project Pseudocode Deadline**
+Week 08 | Jun 25 | 960 Grid, Forms & Bootstrap/Frameworks<br/> **Project First Draft Deadline**
+Week 09 | Jul 09 | jQuery Plugin & Lab
+Week 10 | Jul 16 | Sass/Susy Grids, Content Management Systems & Final Presentations |
 
 
 ##Class 1: Intro to FEWD
@@ -57,7 +57,7 @@ Week 10 | Apr 02 | Sass/Susy Grids, Content Management Systems & Final Presentat
 ###Tim Foley (Course Producer)
 As your Course Producer, it's Tim's job to make sure that you (and your instructors) have everything you need for a successful experience in FEWD18. **If you've got a question, and you're not sure who to ask, start with Tim!**
 
-Before GA, Tim lived and worked in China as a facilitator and program-designer for youth-leadership programs at international schools all over Asia (e.g. student-council retreats, backpacking trips, etc.). After a year abroad, he was ready to move back to the good ol' USA. Tim started out at the front desk as a member of GA's Front Lines team, moved up to "Campus Commander" (yes, a real title), and then in January started as a full-time Course Producer. In addition to FEWD, Tim also produces BEWD, Data Science, Analytics, Mobile Development, and Digital Marketing. Tim has been trying to learn Esperanto since high school.
+Before GA, Tim lived and worked in China as a facilitator and program-designer for youth-leadership programs at international schools all over Asia (e.g. student-council retreats, backpacking trips, etc.). After a year abroad, he was ready to move back to the good ol' USA. Tim started out at the front desk as a member of GA's Front Lines team, moved up to "Campus Commander" (yes, a real title), and then in January started as a full-time Course Producer. In addition to FEWD, Tim also produces Data Science, Analytics, Mobile Development, and Digital Marketing. Tim has been trying to learn Esperanto since high school.
 
 **Contact Info**
 * Email: [tim.foley@generalassemb.ly](mailto:tim.foley@generalassemb.ly)

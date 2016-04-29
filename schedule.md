@@ -21,7 +21,7 @@ The following is a sample schedule based on the materials provided in this repo.
 | __Lesson 14__| Responsive Lab | Basic slide deck provided. |
 | __Lesson 15__| Basic Forms | Optional advanced content on form validation and search is available in the 'optional' subdirectory. |
 | __Lesson 16__| Bootstrap Framework & Forms Lab | Lab lesson, no slides provided. |
-| __Lesson 17__| Final Project Lab | Lab lesson, no slides provided. |
-| __Lesson 18__| Student Choice Lesson | No lesson plan or slides provided. |
+| __Lesson 17__| Final Project Lab / jQuery Plugins | Lab lesson, no slides provided. |
+| __Lesson 18__| Publishing on GitHub.io with Jekyll | No lesson plan or slides provided. |
 | __Lesson 19__| Instructor Choice Lesson | Sample lesson plan provided. |
 | __Lesson 20__| Final Project Presentations | No lesson plan or slides provided. |
