@@ -115,17 +115,17 @@ image retrieved from http://www.onbile.com/info/wp-content/uploads/2013/09/Timel
 
 Heading Elements
 
-```<h1>```Largest Heading```</h1>```
+```&lt;h1>```Largest Heading```&lt;/h1>```
 
-```<h2>``` . . . ```</h2>```
+```&lt;h2>``` . . . ```&lt;/h2>```
 
-```<h3>``` . . . ```</h3>```
+```&lt;h3>``` . . . ```&lt;/h3>```
 
-```<h4>``` . . .```</h4>```
+```&lt;h4>``` . . .```&lt;/h4>```
 
-```<h5>``` . . . ```</h5>```
+```&lt;h5>``` . . . ```&lt;/h5>```
 
-```<h6>```Smallest Heading```</h6>```
+```&lt;h6>```Smallest Heading```&lt;/h6>```
 
 --
 
