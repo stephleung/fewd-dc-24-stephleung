@@ -127,44 +127,44 @@ Heading Elements
 
 ```&lt;h6>```Smallest Heading```&lt;/h6>```
 
---
+---
 
 ##Content Tags
 
 Text Elements
 
-```<p>```This is a paragraph```</p>```
+```&lt;p>```This is a paragraph```&lt;/p>```
 
-```<code>```This is some computer code```</code>```
+```&lt;code>```This is some computer code```&lt;/code>```
 
---
+---
 
 ##Content Tags
 
 Unordered list 
 
-```<ul></ul>```
+```&lt;ul>&lt;/ul>```
 
---
+---
 
 ##Content Tags
 
 Unordered list item 
 
-```<li>```First Item```</li>```
+```&lt;li>```First Item```&lt;/li>```
 
-```<li>```Second Item```</li>```
+```&lt;li>```Second Item```&lt;/li>```
 
 
---
+---
 
 ##Content Tags
 
 links 
 
-```<a href="Link">```First item```</a>```
+```&lt;a href="Link">```First item```&lt;/a>```
 
---
+---
 
 ![GeneralAssemb.ly](../../img/icons/code_along.png)
 ##General Assembly Press Release
