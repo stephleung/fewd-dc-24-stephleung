@@ -1,54 +1,90 @@
 body {
-
+font-family:  sans-serif;
+font-size: 18px;
+padding: 50px;
+background: #F6F6F6;
+border-top: 6px solid;
+line-height: 1.5;
+margin: 0
 }
 
 .commonstyles a {
-
+font-weight: bold;
+color: #05080C;
 }
 
 .commonstyles small {
+  font-weight: bold;
+  font-size: 12px;
+  font-family: serif;
+  font-style: italic;
+  color: #05080C;
 }
 
 .commonstyles strong {
+font-weight: bold;
+}
 
+.commonstyles em {
+font-style: italic;
 }
 
 .commonstyles h1 {
-
+text-transform: uppercase;
+color: #05080C;
 }
 
 .commonstyles h2 {
+  font-size: 28px;
+  color: #05080C;
+  margin-top: 42px;
+  padding-bottom: 6px;
+  border-bottom:1.5px solid black;
 }
 
 .commonstyles h3 {
+  text-transform: uppercase;
+  font-size: 18px;
   margin-top: 42px;
+  margin-bottom: 10px;
+  color: #05080C;
 }
 
 .commonstyles h4 {
   margin-bottom: 0;
+  color: #05080C;
+  font-variant: small-caps;
+  font-family: Georgia, serif;
+  font-style: normal;
+  margin-top: 10px;
+  font-size: 18px;
 }
 
 .commonstyles p {
   margin-top: 0;
-  margin-bottom: 27px;
+  margin-bottom: 20px;
+  font-family: Georgia, serif;
+  color: #05080C;
 }
 
 .commonstyles ul {
   list-style: square;
+  margin-top: 10px;
 }
 
 .commonstyles ul p {
-
+  color: #05080C;
 }
 
 .commonstyles li {
-
+  color: #05080C;
 }
 
 .commonstyles hr {
   border: none;
   border-top: 1px solid #222222;
   margin: 30px 0;
+  color: #05080C;
 }
 
 .commonstyles img {
@@ -68,28 +104,52 @@ body {
   max-width: 300px;
   float:right;
   margin: 0 0 20px 20px;
+
 }
 
 .toc .toclevel-1 {
-
+  font-size: 14px;
+  font-weight: bold;
+  color: #05080C;
+  list-style: disc;
 }
 
 .toc .toclevel-1 > a {
-
+  color: #05080C;
 }
 
 .toc .toclevel-2 {
-
+  font-size: 12px;
+  color: #05080C;
+  list-style: circle;
 }
 
 .toc .toclevel-2 > a {
-
+  color: #3344aa;
+  font-weight: normal;
 }
 
-.datatable td {
+.starttable td {
   padding: 8px 14px;
+  border: none;
 }
 
-.datatable td:first-child{
+.starttable td:first-child{
   text-transform: uppercase;
+  font-weight: bold;
+  font-size: 10px;
+
+}
+
+.tableborder  {
+  padding: 4px 8px;
+  border: 1px solid #555555;
+  border-collapse: collapse;
+  
+}
+
+.tableborder th, td {
+  padding: 4px 8px;
+  border: 1px solid #555555;
+  border-collapse: collapse;
 }
