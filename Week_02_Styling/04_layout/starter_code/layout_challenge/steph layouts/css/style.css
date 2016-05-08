@@ -1,0 +1,96 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.container {
+    max-width: 950px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer, aside, .logo, .main, .left, .right, .middle {
+  background: gray;
+  margin-bottom: 3%;
+  padding: 30px;
+  min-height: 100px;
+}
+
+section {
+  width: 100%;
+}
+
+.logo {
+  width: 25%;
+  float: left;
+  margin-right: 1.5%;
+  height: 100px;
+}
+
+.navSection {
+  background: none;
+  width: 72%;
+  float: left;
+  margin-left: 1.5%;
+  margin-bottom: 3%;
+  margin-top: 0
+  height: 100px;
+  padding: 0
+}
+
+.button {
+  background: gray;
+  list-style: none;
+  height: 60px;
+  width: 22%;
+  margin-left: 3%;
+  float: right;
+
+}
+
+.main {
+  height: 300px;
+  clear: both;
+}
+
+.leftAside, .rightAside {
+  float: left;
+  width: 48.5%;
+  height: 300px;
+}
+
+.leftAside  {
+  margin-right: 1.5%;
+}
+
+.rightAside {
+  margin-left: 1.5%;
+}
+
+.left, .middle, .right {
+  height: 150px;
+  float: left;
+}
+
+.left {
+  width: 31%;
+  margin-right: 1.5%;
+}
+
+.middle {
+  width: 32%;
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+}
+
+.right  {
+  width: 31%;
+  margin-left: 1.5%;
+}
+
+
+footer  {
+  clear: both;
+}

@@ -1,0 +1,23 @@
+body	{
+	margin: 30px;
+}
+
+p	{
+	color: gray;
+}
+
+em	{
+	font-weight: bold;
+	color: black;
+}
+
+blockquote	{
+	font-style: italic;
+	border-left: solid 3px rgb(200, 200, 200);
+	padding-left: 15px;
+	margin-left: 0
+}
+
+blockquote	em	{
+	font-style: normal;
+}

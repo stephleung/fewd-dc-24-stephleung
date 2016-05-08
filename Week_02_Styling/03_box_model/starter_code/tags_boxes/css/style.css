@@ -1,0 +1,12 @@
+h1 {
+		background-color: #ff0000;
+		padding: 40px;
+		border: 4px solid black;
+
+}
+p {
+		background: blue;
+		color: white;
+		padding: 60px;
+		border: 4px dotted black;
+}

@@ -1,0 +1,30 @@
+body	{
+	margin: 30px;
+	font-family: sans-serif;
+}
+
+code	{
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 3px;
+	background: rgba(215, 215, 215, .25);
+}
+
+div	{
+	border:2px solid gray;
+
+	padding: 20px;
+	background: rgba(200, 200, 200, 1);
+	margin: 10px 0 10px 0;
+}
+
+.message	{
+	background:#ffe
+}
+
+.error	{
+	background: rgba(255, 0, 0, .25);
+}
+#notification	{
+	background: gray
+}
