@@ -1,0 +1,152 @@
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+body {
+     color: #000;
+     font-size: 12px;
+     font-weight: 300;
+     line-height: 2;
+     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+     background: black;
+}
+
+section   {
+     padding: 30px 30px 30px 30px;
+}
+
+.container     {
+     width: 950px;
+     margin: 0 auto;
+}
+
+.landing  {
+     background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+     background-size: cover;
+     height: 400px;
+     padding-left: 30px;
+     padding-right: 30px;
+}
+
+.logo    {
+     font-size: 24px;
+     font-weight: 800;
+}
+
+.landing .logo {
+     color: #fff;
+}
+
+.introtext     {
+     font-size: 24px;
+     font-weight: 600;
+     text-align: center;
+     color: #fff;
+     padding-top: 50px;
+     padding-bottom: 50px;
+}
+
+ .button {
+     font-size: 14px;
+     font-weight: 800;
+     text-align: center;
+     border-radius: 5px;
+     height: 40px;
+     width: 200px;
+     margin: 0 auto;
+     padding: 5px;
+     text-decoration: none;
+     display: block;
+}
+
+.yellow   {
+     background: #f9e42e;
+     color: black;
+}
+
+.darkblue   {
+     background: #033048;
+     color: #fff;
+}
+
+
+.benefits {
+     background: #f0efef;
+     color: #606161; 
+}
+
+.benefits h2   {
+     font-size: 20px;
+     font-weight: 600;
+     padding-bottom: 20px;
+}
+
+.benefits p, ul   {
+     font-size: 13px;
+     padding-bottom: 20px;
+}
+
+.benefits li {
+     list-style: disc;
+     list-style-position: inside;
+     margin-left: 15px;
+}
+
+.testimonial {
+     background: url(../images/testimonial_bg.jpg) no-repeat center;
+     background-size: cover;
+     color: #fff;
+}
+
+.testimonial .customerSays {
+     font-style: italic;
+     font-size: 18px;
+     text-align: center;
+     padding: 20px 30% 20px 30%;
+}
+
+.testimonial .customerName  {
+     font-weight: 600;
+     font-size: 18px;
+     font-style: normal;
+}
+
+.signUp   {
+     background: #f9e42e;
+     font-size: 12px;
+}
+
+
+.foot   {
+     background: #121212;
+     text-align: center;
+}
+
+.foot .logo {
+     color: #f9e42e;
+}
+
+.foot .social li {
+     margin: 30px;
+     display: inline-block;
+}
+
+.RelaxrCopyright    {
+     color: #fff;
+     text-align: center
+     font-size: 9px;
+     font-weight: 600; 
+}
