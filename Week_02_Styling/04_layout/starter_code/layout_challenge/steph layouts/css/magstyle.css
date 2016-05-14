@@ -1,0 +1,123 @@
+.box, .logo, .ad, .box1	{
+	background: #efefef;
+	margin-bottom: 3%;
+}
+
+.frame	{
+	background: none;
+	margin-bottom: 3%;
+}
+
+header	{
+	height: 80px;
+}
+
+.logo	{
+	height: 100%;
+	width: 30%;
+	float:left;
+}
+
+.navigation {
+	height:100%;
+	width: 67%;
+	float: right;
+
+}
+
+.navigation .menu  {
+	height:100%;
+	width: 100%;
+	margin: 0;
+}
+
+.navigation .menu	.box {
+	height:60%;
+	width: 17%;
+	list-style: disc;
+	display: inline-block;
+	margin-left: 3%;
+	float: right;
+	margin-top: 1.5%;
+}
+
+footer	{
+	height: 80px;
+	margin-bottom: 3%;
+	clear: both;
+}
+
+.container	{
+	height: 800px;
+	background: none;
+	margin-bottom: 3%;
+}
+
+.container .box {
+	height: 100%;
+	width: 20%;
+	float: left;
+}
+
+.container .frame {
+	height: 100%;
+	width: 77%;
+	float: right;
+}
+
+.container .frame .description	{
+	height: 20%;
+	margin-bottom: 3%;
+}
+
+.container .frame .description .box  {
+	height:100%;
+	width: 100%;
+}
+
+.container .frame .main  {
+	height:49%;
+	margin-bottom: 3%;
+}
+
+.container .frame .main .box  {
+	height:100%;
+	width: 74.25%;
+	float: left;
+}
+
+.container .frame .main .ad  {
+	height:100%;
+	width: 22.75%;
+	float: right;
+}
+
+.container .frame .photos {
+	height:25%;
+	margin-bottom: 3%;
+}
+
+.container .frame .photos .photolist {
+	height:100%;
+	width: 100%;
+	padding: 0;
+}
+
+.container .frame .photos .photolist .box {
+	height:100%;
+	width: 22.75%;
+	list-style: none;
+	display: inline-block;
+	float: right;
+	margin-left: 3%;
+}
+
+.container .frame .photos .photolist .box1 {
+	height:100%;
+	width: 22.75%;
+	list-style: disc;
+	display: inline-block;
+	float: right;
+	
+}
+
