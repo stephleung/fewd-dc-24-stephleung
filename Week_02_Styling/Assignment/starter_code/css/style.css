@@ -25,7 +25,8 @@ body {
 }
 
 .container     {
-     width: 950px;
+     width: 100%;
+     max-width: 950px;
      margin: 0 auto;
      padding-top: 30px;
      padding-bottom: 30px;
@@ -35,6 +36,8 @@ body {
      background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
      background-size: cover;
      height: 400px;
+     background-position: top center;
+     background-attachment: fixed;
 }
 
 .logo    {
@@ -104,6 +107,8 @@ body {
 .testimonial {
      background: url(../images/testimonial_bg.jpg) no-repeat center;
      background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
      color: #fff;
 }
 
